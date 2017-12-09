@@ -1,4 +1,6 @@
 
+import Http.Intitilizer;
+
 import static spark.Spark.*;
 
 public class Main {
@@ -8,6 +10,6 @@ public class Main {
 	}
 	
 	public Main(){
-	
+		new Intitilizer();
 	}
 }
