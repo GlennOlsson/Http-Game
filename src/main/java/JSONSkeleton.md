@@ -32,9 +32,6 @@
   "x" : "X_COORDINATE (as number)",
   "y" : "Y_COORDINATE (as number)"
  }]
-  
-  
-  
 }
 }
 ```
