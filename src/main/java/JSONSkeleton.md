@@ -1,4 +1,4 @@
-#Files
+# Files
 ### Bots.json
 ```json
 {
